@@ -29,7 +29,7 @@ Welcome to the Library Management System! This project provides a comprehensive 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/nakshatra00/library-management-system.git
    cd library-management-system
    ```
 
